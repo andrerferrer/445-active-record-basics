@@ -1,6 +1,5 @@
 ## Usage
 
-First clone this repository. 
 
 ```bash
 cd ~/code/$USER
